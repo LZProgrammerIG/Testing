@@ -1,0 +1,59 @@
+{
+	"hashId" : 123456,
+	"puzzle" : {
+		"easy" : {
+			"addition" : {
+				"minOperand" : 1,
+				"maxOperand" : 5
+			},
+			"subtraction" : {
+				"minOperand" : 1,
+				"maxOperand" : 5
+			},
+			"multiplication" : {
+				"minOperand" : 1,
+				"maxOperand" : 4
+			},
+			"division" : {
+				"minOperand" : 1,
+				"maxOperand" : 4
+			}
+		},
+		"medium" : {
+			"addition" : {
+				"minOperand" : 4,
+				"maxOperand" : 12
+			},
+			"subtraction" : {
+				"minOperand" : 4,
+				"maxOperand" : 12
+			},
+			"multiplication" : {
+				"minOperand" : 4,
+				"maxOperand" : 8
+			},
+			"division" : {
+				"minOperand" : 4,
+				"maxOperand" : 11
+			}
+		},
+		"hard" : {
+			"addition" : {
+				"minOperand" : 8,
+				"maxOperand" : 25
+			},
+			"subtraction" : {
+				"minOperand" : 12,
+				"maxOperand" : 30
+			},
+			"multiplication" : {
+				"minOperand" : 10,
+				"maxOperand" : 20
+			},
+			"division" : {
+				"minOperand" : 10,
+				"maxOperand" : 25
+			}
+		}
+	}
+}
