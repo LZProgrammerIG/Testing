@@ -17,6 +17,10 @@
 			"division" : {
 				"minOperand" : 1,
 				"maxOperand" : 4
+			},
+			"comparison" : {
+				"minOperand" : 0,
+				"maxOperand" : 5
 			}
 		},
 		"medium" : {
@@ -35,6 +39,10 @@
 			"division" : {
 				"minOperand" : 4,
 				"maxOperand" : 11
+			},
+			"comparison" : {
+				"minOperand" : 5,
+				"maxOperand" : 10
 			}
 		},
 		"hard" : {
@@ -51,6 +59,10 @@
 				"maxOperand" : 20
 			},
 			"division" : {
+				"minOperand" : 10,
+				"maxOperand" : 25
+			},
+			"comparison" : {
 				"minOperand" : 10,
 				"maxOperand" : 25
 			}
